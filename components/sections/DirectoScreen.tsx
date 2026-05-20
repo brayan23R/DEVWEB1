@@ -29,7 +29,7 @@ const liveItems: LiveItem[] = [
   {
     title: "Plan escape 3",
     image: "/directo/directo-02.png",
-    youtubeId: "a5QIpWYFsZg",
+    youtubeId: "6ECzRjoRjSc",
     tag: "Disfruta FREE",
   },
   {
@@ -59,19 +59,19 @@ const liveItems: LiveItem[] = [
   {
     title: "Extraction",
     image: "/directo/directo-07.png",
-    youtubeId: "0cEYwI1Eb-o",
+    youtubeId: "zXSE4ob5HHM",
     tag: "Live",
   },
   {
     title: "La isla misteriosa ",
     image: "/directo/directo-08.png",
-    youtubeId: "zXSE4ob5HHM",
+    youtubeId: "zwl_gYjVH58",
     tag: "HD",
   },
   {
     title: "Los indestructibles 4",
     image: "/directo/directo-09.png",
-    youtubeId: "zwl_gYjVH58",
+    youtubeId: "rOtJL4kUg8k",
     tag: "Premium",
   },
   {
