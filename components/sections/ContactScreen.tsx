@@ -63,7 +63,7 @@ export function ContactScreen() {
               <input
                 type="email"
                 required
-                placeholder="tu@email.com"
+                placeholder="tu@enail.com"
                 className="rounded-md border border-white/10 bg-[#031632]/50 px-4 py-3 text-white placeholder:text-slate-400 focus:border-cyan-300 focus:ring-1 focus:ring-cyan-300"
               />
             </div>
@@ -115,7 +115,7 @@ export function ContactScreen() {
 
               <div className="flex items-center gap-3 text-slate-300">
                 <Mail size={20} />
-                <span>reluminopebrayan36@gmail.com</span>
+                <span>reluzminopebrayan36@gmail.com</span>
               </div>
             </div>
           </div>

@@ -122,10 +122,10 @@ export function VerAhoraScreen() {
 
           <div className="relative h-[560px] overflow-hidden rounded-[1.6rem] border border-white/10 bg-white shadow-2xl sm:h-[640px] lg:h-[690px]">
             {!isAgendaLoaded && (
-  <div className="absolute inset-0 z-10 overflow-hidden bg-[#020b1f]">
-    <Image
-      src={AGENDA_LOADING_IMAGE}
-      alt="Eventos deportivos en vivo"
+             <div className="absolute inset-0 z-10 overflow-hidden bg-[#020b1f]">
+             <Image
+            src={AGENDA_LOADING_IMAGE}
+               alt="Eventos deportivos en vivo"
       fill
       priority
       sizes="(min-width: 1024px) 1200px, 100vw"
