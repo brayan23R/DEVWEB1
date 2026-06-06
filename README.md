@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DevWeb — Portafolio de desarrollo web a medida
+> MVPs funcionales en 3 semanas para pymes · React · Node.js · Laravel
 
-## Getting Started
+## 🚀 Proyectos en producción
 
-First, run the development server:
+### Sistema de gestión de pedidos — Restaurante Mi Rosita
+**Stack:** React · Node.js · Express · MySQL  
+**Resultado:** -80% tiempo de registro · 0 errores manuales desde lanzamiento  
+**Demo:** [ver en vivo](https://...) · [código](https://github.com/brayan23R/...)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Sistema de citas — Sonrident
+**Stack:** React · Laravel · PostgreSQL · Netlify  
+**Resultado:** +60 citas online/mes · Lighthouse 90+ · carga <2s  
+**Demo:** [sonrident.com.pe](http://www.sonrident.com.pe/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Stack técnico
+React · TypeScript · Node.js · Express · Laravel · MySQL · PostgreSQL  
+Docker · GitHub Actions · Netlify · JWT · REST APIs
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contacto
+reluzmiropebrayan36@gmail.com · [LinkedIn](#) · [Portafolio](https://devweb-iota.vercel.app)
