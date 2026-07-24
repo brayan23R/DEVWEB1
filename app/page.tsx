@@ -1,11 +1,5 @@
-import { Header } from "@/components/layout/Header";
-import { HeroSection } from "@/components/sections/HeroSection";
+import { CorporateSite } from "@/components/CorporateSite";
 
-export default function Home() {
-  return (
-    <main className="min-h-screen">
-      <Header />
-      <HeroSection />
-    </main>
-  );
+export default function HomePage() {
+  return <CorporateSite />;
 }

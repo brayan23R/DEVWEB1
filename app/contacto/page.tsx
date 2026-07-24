@@ -1,17 +1,5 @@
-import { Header } from "@/components/layout/Header";
-import { ContactScreen } from "@/components/sections/ContactScreen";
+import { redirect } from "next/navigation";
 
-export const metadata = {
-  title: "Contacto | DevWeb Software House",
-  description:
-    "Formulario de contacto, soporte y consulta por WhatsApp para servicios y software DevWeb.",
-};
-
-export default function ContactPage() {
-  return (
-    <main className="min-h-screen">
-      <Header />
-      <ContactScreen />
-    </main>
-  );
+export default function ContactoPage() {
+  redirect("/#contacto");
 }
